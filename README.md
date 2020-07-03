@@ -1,0 +1,2 @@
+# noranNoBlog
+noran's blog
